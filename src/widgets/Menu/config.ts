@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/bobateaswaptelegram",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/goosefinancechinese",
+        href: "https://t.me/bobateaswaptelegram",
       },
       // {
       //   label: "Tiếng Việt",
@@ -136,15 +136,15 @@ export const socials = [
       // },
       {
         label: "Italiano",
-        href: "https://t.me/goosefinanceitalian",
+        href: "https://t.me/bobateaswaptelegram",
       },
       {
         label: "русский",
-        href: "https://t.me/goosefinancerussian",
+        href: "https://t.me/bobateaswaptelegram",
       },
       {
         label: "Türkiye",
-        href: "https://t.me/GooseFinanceTurkey",
+        href: "https://t.me/bobateaswaptelegram",
       },
       // {
       //   label: "Português",
@@ -152,35 +152,35 @@ export const socials = [
       // },
       {
         label: "Español",
-        href: "https://t.me/goosefinancespanish",
+        href: "https://t.me/bobateaswaptelegram",
       },
       {
         label: "日本語",
-        href: "https://t.me/goosefinancejapanese",
+        href: "https://t.me/bobateaswaptelegram",
       },
       {
         label: "Français",
-        href: "https://t.me/goosefinancefrench",
+        href: "https://t.me/bobateaswaptelegram",
       },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/bobateaswaptelegram",
       },
       {
         label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
+        href: "https://t.me/bobateaswaptelegram",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "https://twitter.com/Bobateaswap",
   },
   {
     label: "Reddit",
     icon: "RedditIcon",
-    href: "https://www.reddit.com/r/GooseFinanceofficial",
+    href: "https://www.reddit.com/r/BobaTeaSwap/",
   },
 ];
 
